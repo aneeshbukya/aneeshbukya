@@ -101,7 +101,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneesh-bukya&show_icons=true&locale=en&layout=compact" alt="aneeshbukya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshbukya&show_icons=true&locale=en&layout=compact" alt="aneeshbukya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshbukya&show_icons=true&locale=en" alt="aneeshbukya" /></p>
 
