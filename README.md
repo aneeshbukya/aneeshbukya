@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with scikit-learn**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aneeshbukya-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aneeshbukya.netlify.app)
 
 - 📫 How to reach me **aneeshbsri@outlook.com**
 
