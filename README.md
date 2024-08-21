@@ -6,6 +6,8 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aneeshbukya.netlify.app)
 
 - 📫 How to reach me **aneeshbsri@outlook.com**
+  
+- Check out all of my projects at [Project Log](https://github.com/aneeshbukya/Project-Log)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
