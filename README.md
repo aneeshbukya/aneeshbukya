@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneesh Bukya</h1>
-<h3 align="center">Senior CS student at Rochester Institute of Technology (Honors, GPA 3.82) graduating May 2026, with a focus on AI, full-stack development, and building things that ship to real users.</h3>
+<h3 align="center">Senior CS student at Rochester Institute of Technology, graduating May 2026, with a focus on AI, full-stack development, and building things that ship to real users.</h3>
 
 - 💼 Currently a **Software Engineering Intern at Vanguard**, working on AWS Bedrock guardrails and full-stack automation tooling
 
