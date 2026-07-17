@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aneesh Bukya</h1>
-<h3 align="center">Senior CS student at Rochester Institute of Technology, graduating May 2026, with a focus on AI, full-stack development, and building things that ship to real users.</h3>
+<h3 align="center">Software Engineer at Vanguard | RIT CS Honors '26 | MSCS (AI) student at Georgia Tech | Focused on agentic AI, AWS, and full-stack systems that ship to real users.</h3>
 
-- 💼 Currently a **Software Engineering Intern at Vanguard**, working on AWS Bedrock guardrails and full-stack automation tooling
+- 💼 Currently a **Software Engineer I at Vanguard**, building agentic AI on AWS Bedrock — production prompts, guardrail logic, and automated knowledge base ingestion pipelines
 
-- 🌱 Previously interned at **Liberty Mutual**, **MSA Safety**, and **Brightcone.ai** across the AWS / Python / full-stack space
+- 🎓 Pursuing an **M.S. in Computer Science (AI specialization) at Georgia Tech** part-time, expected May 2028
+
+- 🛠️ Previously interned at **Vanguard**, **Liberty Mutual**, **MSA Safety**, and **Brightcone.ai** across the AWS / Python / full-stack space
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aneeshbukya.netlify.app)
 
@@ -29,11 +31,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/>
@@ -82,6 +84,9 @@
 
 <h3 align="left">AI/ML Tools:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com/bedrock/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws bedrock" width="40" height="40"/>
+  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
@@ -102,6 +107,9 @@
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" alt="crewai" width="40" height="40"/>
   </a>
 </p>
 
